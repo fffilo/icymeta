@@ -1,7 +1,7 @@
 IcyMeta
 =======
 
-Get icy-meta from audio stram...
+Get icy-meta from audio stream...
 
 ### Examples
 
